@@ -1,0 +1,64 @@
+* {
+    padding: 10px;
+    margin: 10px;
+    font-size: 18px;
+
+}
+
+.container{
+    display: block;
+    margin: -20px 0px -20px;
+    
+    border-bottom: solid 15px #154696;
+  
+    height: 50px;
+    width: 500px%;
+    
+    background-color:cornflowerblue; 
+    
+}
+a {
+    display: inline-block;
+    font-size: 2em;
+    }
+a:visited{
+    color: white;
+    font-size: 2em;
+}
+
+.background {
+    
+    margin: 0px 20px 0px;
+    height: 300px;
+    width: 1209px;
+    background-image:url(./Pressure-mounts-for-global-beef-supplies_wrbm_large.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+    text-align: left;
+    font-size: 6em;
+}
+h2 {
+    color: white;
+    text-align: left;
+    font-size: 5em;
+}
+h5 {
+    font-size: 1.5em;
+}
+
+
+
+
+
+.heading{
+    font-size: 3em;
+    padding: -10px;
+}
+li{
+    font-size: 1em;
+}
